@@ -1,4 +1,4 @@
-<h1 align="center">Hi world👋, I'm Miguel is here!!</h1>
+<h1 align="center">Hi world👋, Miguel is here!!</h1>
 <h3 align="center">Data Analyst | Business Management</h3>
 
 - 🔭 The current goal is **to establish myself as a Data Analyst in the technological industry.**
