@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking to collaborate on **projects that allow me to explore my curiosity for data while also allow me to grow in Pandas, NumPy, MatplotLib, Seaborn, MySQL, Data Visualization Scikit-Learn, APIs and many more.**
 
-- 👨‍💻 My projects in data visulization are available at [public.tableau.com/app/profile/mbeovides](public.tableau.com/app/profile/mbeovides)
+- 👨‍💻 My projects in data visulization are available at [public.tableau.com/app/profile/mbeovides](www.public.tableau.com/app/profile/mbeovides)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mbeovides/](https://www.linkedin.com/in/mbeovides/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
