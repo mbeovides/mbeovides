@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently building **new data projects with Python, SQL and Tableau.**
 
-- 🤝 I’m looking to collaborate on **projects that allow me to explore my curiosity for data while also allow me to grow in Pandas, NumPy, MatplotLib, Seaborn, MySQL, Data Visualization Scikit-Learn, APIs and many more.**
+- 🤝 I’m looking to collaborate on **projects that allow me to explore my curiosity for data while also allow me to grow in Pandas, NumPy, MatplotLib, Seaborn, MySQL, Data Visualization, Scikit-Learn, APIs and many more.**
 
 - 👨‍💻 My projects in data visulization are available at (https://public.tableau.com/app/profile/mbeovides)
 
